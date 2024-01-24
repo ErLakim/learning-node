@@ -10,3 +10,15 @@
 
 //write a js function to convert title into slug.
 //eg. "React Js Clean Code Guide" => react-js-clean-code-guide
+
+const findMinMax= require("./library");
+const findMinMax=()=> {
+	const Arr = [50, 60, 20, 10, 40];
+
+	
+	console.log("Minimum element is:" + minValue);
+	console.log("Maximum Element is:" + maxValue);
+};
+
+
+
